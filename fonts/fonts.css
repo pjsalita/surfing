@@ -1,0 +1,97 @@
+/* LeagueSpartan-Bold */
+@font-face {
+    font-family: 'LeagueSpartan';
+    src: url('leaguespartan-bold.eot');
+    src: url('leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
+         url('leaguespartan-bold.woff2') format('woff2'),
+         url('leaguespartan-bold.woff') format('woff'),
+         url('leaguespartan-bold.ttf') format('truetype'),
+         url('leaguespartan-bold.svg#league_spartanbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* PlayfairDisplay-Bold */
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('PlayfairDisplay-Bold.eot');
+    src: url('PlayfairDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+         url('PlayfairDisplay-Bold.svg#PlayfairDisplay-Bold') format('svg'),
+         url('PlayfairDisplay-Bold.ttf') format('truetype'),
+         url('PlayfairDisplay-Bold.woff') format('woff'),
+         url('PlayfairDisplay-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* PlayfairDisplay-Regular */
+@font-face {
+    font-family: 'PlayfairDisplay-Regular';
+    src: url('PlayfairDisplay-Regular.eot');
+    src: url('PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+         url('PlayfairDisplay-Regular.svg#PlayfairDisplay-Regular') format('svg'),
+         url('PlayfairDisplay-Regular.ttf') format('truetype'),
+         url('PlayfairDisplay-Regular.woff') format('woff'),
+         url('PlayfairDisplay-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Poppins-Light */
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Light.eot');
+    src: url('Poppins-Light.eot?#iefix') format('embedded-opentype'),
+         url('Poppins-Light.svg#Poppins-Light') format('svg'),
+         url('Poppins-Light.ttf') format('truetype'),
+         url('Poppins-Light.woff') format('woff'),
+         url('Poppins-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* SVG Icons */
+i.play {
+    display: block;
+    background: url(icons/play.svg) no-repeat;
+    width: 14px;
+    height: 17px;
+    cursor: pointer;
+}
+
+i.prev {
+    display: block;
+    background: url(icons/prev.svg) no-repeat;
+    width: 11px;
+    height: 18px;
+    cursor: pointer;
+}
+
+i.next {
+    display: block;
+    background: url(icons/next.svg) no-repeat;
+    width: 11px;
+    height: 18px;
+    cursor: pointer;
+}
+
+i.tumblr {
+    display: block;
+    background: url(icons/tumblr.svg) no-repeat;
+    width: 13px;
+    height: 21px;
+}
+
+i.twitter {
+    display: block;
+    background: url(icons/twitter.svg) no-repeat;
+    width: 19px;
+    height: 17px;
+}
+
+i.vimeo {
+    display: block;
+    background: url(icons/vimeo.svg) no-repeat;
+    width: 19px;
+    height: 16px;
+}
